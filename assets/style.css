@@ -23,3 +23,6 @@
 .htrans{
     background-color: #ffffff8f;
 }
+.portpics{
+    grid-auto-flow: column;
+}
