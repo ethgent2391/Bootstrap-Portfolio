@@ -1,0 +1,25 @@
+.caption{
+    background-color: #17a2b8!important;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    top: -80px;
+    left:16;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.smokey{
+    background-color: #c2c2c293;
+}
+.smokeynav{
+    background-color:#ebebeb9a;
+}
+#contenttrans{
+    background-color: #dbdbdbcc!important;
+}
+.infotrans{
+    background-color: #17a3b8b9;
+}
+.htrans{
+    background-color: #ffffff8f;
+}
